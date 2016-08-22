@@ -1,0 +1,22 @@
+{
+  "name": "env",
+  "version": "1.0.0",
+  "description": "shooter game for training javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasFurioFranco/shooterjs.git"
+  },
+  "keywords": [
+    "shooterjs"
+  ],
+  "author": "Lucas Furio Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasFurioFranco/shooterjs/issues"
+  },
+  "homepage": "https://github.com/LucasFurioFranco/shooterjs#readme"
+}
